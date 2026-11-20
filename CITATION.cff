@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '疝癥積聚編（1787 年刊本，京都大學 セ/167） / Senchō sekishūhen [Medical discussions and case
   records on shan and abdominal accumulations]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

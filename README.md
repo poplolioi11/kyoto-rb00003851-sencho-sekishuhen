@@ -4,11 +4,11 @@
 
 Senchō sekishūhen is a Literary Chinese medical book by Ohashi Shōin. Its discussions of the historical categories shan and abdominal accumulations are followed by individual case records, including the author’s account of his own illness. This edition follows Kyoto University’s Fujikawa Collection copy セ/167, with an imprint dated to 1787.
 
-## V0.1.0
+## V0.2.0
 
-全冊 37 幅均編目。第4至36幅的62個有字書面保留序、論述、案例、跋、刊記及可公開附文。公開版分欄標有原文省錄。訓點與片假名注音仍可向原圖覆核。AI 輔助逐欄初錄。未定字與局部省錄皆留定位。
+全冊 37 幅均編目。第4至36幅的62個有字書面保留序、論述、案例、跋、刊記及可公開附文。公開版分欄標有原文省錄。訓點與片假名注音仍可向原圖覆核。比對未見初稿的本機 OCR 候選後，回圖裁定採用 78 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 37 scans are indexed. The 62 written faces across scans 4–36 contain prefaces, discussions, clinical accounts, colophons, and the included portions of the register. Local omissions are marked at column level. Some Japanese reading marks remain source-locatable. AI-assisted column-by-column initial transcription with unresolved readings and local omissions identified.
+All 37 scans are indexed. The 62 written faces across scans 4–36 contain prefaces, discussions, clinical accounts, colophons, and the included portions of the register. Local omissions are marked at column level. Some Japanese reading marks remain source-locatable. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 78 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

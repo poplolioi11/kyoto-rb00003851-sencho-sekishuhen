@@ -17,11 +17,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003851/manifest.json",
     "manifest_sha256": "61662d1cd5c4185dbd808d69e57ed089ad0a02f87aab828c3720e687e9c5cc73",
     "record_id": "RB00003851",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": null,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "疝癥積聚編（1787 年刊本，京都大學 セ/167） / Senchō sekishūhen [Medical discussions and case records on shan and abdominal accumulations]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -180,7 +180,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "prefaces-and-title",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -222,7 +222,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／序／一",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -234,7 +234,7 @@
               "type": "seal",
               "location": "左上印記",
               "text": "185853／大正7.3.31",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "185853",
@@ -245,21 +245,21 @@
               "type": "seal",
               "location": "左上印記",
               "text": "朱色篆印一方，與第1、2欄頂端部分重疊。",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁內側",
               "text": "富士川游寄贈",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "版式",
               "text": "正文隨刻有訓點及假名小字。",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -283,7 +283,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "prefaces-and-title",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -312,7 +312,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／序／一",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -349,7 +349,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／序／二",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -378,7 +378,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "prefaces-and-title",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -407,7 +407,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／序／二",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -435,7 +435,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／序／三",
-              "column_anchor": 3,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -447,7 +447,7 @@
               "type": "seal",
               "location": "左頁署下印記",
               "text": "「大橋尚因」方印及另一方印。",
-              "column_anchor": 3,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -471,7 +471,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "prefaces-and-title",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -534,7 +534,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -562,7 +562,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "historical-clinical-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -600,7 +600,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／序／四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -646,7 +646,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -674,7 +674,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "historical-clinical-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -712,7 +712,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -757,7 +757,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -785,7 +785,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "historical-clinical-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -823,7 +823,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -868,7 +868,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -896,7 +896,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "historical-clinical-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -934,7 +934,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -979,7 +979,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -1007,7 +1007,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "historical-clinical-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1045,7 +1045,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -1090,7 +1090,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／五",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -1118,7 +1118,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "historical-clinical-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1156,7 +1156,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／五",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -1201,7 +1201,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "疝癥積聚編／六",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "疝癥積聚編",
@@ -1229,7 +1229,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "historical-clinical-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1267,7 +1267,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1308,14 +1308,14 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁葉碼",
               "text": "七",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1339,7 +1339,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "historical-clinical-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1377,14 +1377,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁葉碼",
               "text": "七",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1425,14 +1425,14 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁葉碼",
               "text": "八",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1456,7 +1456,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1494,14 +1494,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁葉碼",
               "text": "八",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1542,14 +1542,14 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁葉碼",
               "text": "九",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1573,7 +1573,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1611,14 +1611,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁葉碼",
               "text": "九",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1659,14 +1659,14 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁葉碼",
               "text": "十",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1690,7 +1690,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1728,14 +1728,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁葉碼",
               "text": "十",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1776,14 +1776,14 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁葉碼",
               "text": "十一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1807,7 +1807,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1845,14 +1845,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁葉碼",
               "text": "十一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1893,14 +1893,14 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁葉碼",
               "text": "十二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1924,7 +1924,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1942,7 +1942,7 @@
               "text": "有矣予曰如疝痛則雖其形不顯然或"
             },
             {
-              "text": "引睾丸或臍邊有動氣或為腹中雷鳴"
+              "text": "引睪丸或臍邊有動氣或為腹中雷鳴"
             },
             {
               "text": "耳病者曰然雖無引睾丸等症時雷鳴"
@@ -1951,7 +1951,7 @@
               "text": "或似積在腰下予曰果疝也疝伏而不"
             },
             {
-              "text": "顯及著腰以令痛與補腎湯其病尋已"
+              "text": "顯反著腰以令痛與補腎湯其病尋已"
             },
             {
               "text": "予曩客蓬北有人過予之旅館曰吾久患"
@@ -1962,14 +1962,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁葉碼",
               "text": "十二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2010,14 +2010,14 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁葉碼",
               "text": "十三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2041,7 +2041,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2079,14 +2079,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁葉碼",
               "text": "十三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2127,14 +2127,14 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁葉碼",
               "text": "十四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2158,7 +2158,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2196,14 +2196,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁葉碼",
               "text": "十四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2212,7 +2212,7 @@
           "side": "left",
           "columns": [
             {
-              "text": "而為鳴動也勞症之邪在胃者或雖似"
+              "text": "而為鳴動也勞症之邪在脾者或雖似"
             },
             {
               "text": "之然勞之痞塊何有鳴動冷氣乎疝亦"
@@ -2244,14 +2244,14 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁葉碼",
               "text": "十五",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2314,14 +2314,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁葉碼",
               "text": "十五",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2362,14 +2362,14 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁葉碼",
               "text": "十六",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
@@ -2455,28 +2455,28 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "右頁葉碼",
               "text": "十六",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "右頁第5欄「苓术羌附湯」下小字",
               "text": "家方",
-              "column_anchor": 9,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "右頁第8欄「甘艸乾薑湯」下小字",
               "text": "家方",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             }
           ]
@@ -2517,35 +2517,35 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "左頁葉碼",
               "text": "十七",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "左頁第1欄「茯苓湯」下小字",
               "text": "家方",
-              "column_anchor": 9,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "左頁第4欄「生薑半夏湯」下小字",
               "text": "家方",
-              "column_anchor": 9,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "左頁第6欄「薑椒湯」下小字",
               "text": "外臺方",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             }
           ]
@@ -2715,35 +2715,35 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁葉碼",
               "text": "十七",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第5欄「生薑」下並行小字",
               "text": "各等分",
-              "column_anchor": 9,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第8欄「蒼术」下小字",
               "text": "八分",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第8欄「藁本」下小字",
               "text": "五分",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             }
           ]
@@ -2784,14 +2784,14 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁葉碼",
               "text": "十八",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
@@ -2933,42 +2933,42 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編　十八",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第3欄「蜀椒湯」後小字出處",
               "text": "外臺方",
-              "column_anchor": 9,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第6欄「茯苓桂甘湯」後小字出處",
               "text": "傷寒方",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第7欄「茯苓」後小字",
               "text": "八分",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第7欄「甘艸」後小字",
               "text": "各四分",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第7欄「生薑」後小字",
               "text": "少",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
@@ -3016,49 +3016,49 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編　十九",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第2欄「三白湯」下小字出處",
               "text": "家方",
-              "column_anchor": 9,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第6欄「厚朴七物湯」下小字出處",
               "text": "要略方",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第7欄「厚朴」後小字",
               "text": "八分",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第7欄「甘艸」後小字",
               "text": "四分",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第7欄「大黄」後小字",
               "text": "三分",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第8欄「生薑」後小字",
               "text": "各二分",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
@@ -3180,14 +3180,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編　十九",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第6欄「良薑湯」下小字出處",
               "text": "家方",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
@@ -3235,7 +3235,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編　二十",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3356,14 +3356,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編　二十",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第6欄「當歸茴香散」後小字出處",
               "text": "家方",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             }
           ]
@@ -3404,7 +3404,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編　二十一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3500,7 +3500,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "historical-formula-register",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3538,7 +3538,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編　二十一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3579,7 +3579,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編　二十二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3632,7 +3632,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "historical-formula-register",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3670,7 +3670,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編　二十二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3711,7 +3711,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編　二十三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3735,7 +3735,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "historical-formula-register",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3773,7 +3773,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編　二十三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3814,7 +3814,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編　二十四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3838,7 +3838,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "historical-formula-register",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3876,7 +3876,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編　二十四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3896,7 +3896,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編　二十五",
-              "column_anchor": 2,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3920,7 +3920,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "afterword-and-imprint",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3962,14 +3962,14 @@
               "type": "seal",
               "location": "左頁第1欄「跋」下篆印",
               "text": "隱藩小臣",
-              "column_anchor": 6,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編　跋　一",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3993,7 +3993,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "afterword-and-imprint",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4022,7 +4022,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編　跋　一",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4054,7 +4054,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編　跋　二",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4078,7 +4078,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "afterword-and-imprint",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -4107,7 +4107,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "疝癥積聚編　跋　二",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4144,7 +4144,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "疝癥積聚編　跋　三",
-              "column_anchor": 3,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4176,7 +4176,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "afterword-and-imprint",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4212,21 +4212,21 @@
               "type": "printed-small-text",
               "location": "左頁第1欄「未」小字",
               "text": "未",
-              "column_anchor": 4,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第2欄右側地名小字",
               "text": "大坂安堂町心齋橋筋",
-              "column_anchor": 4,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第3欄右側地名小字",
               "text": "京堀川佛光寺下ル町",
-              "column_anchor": 4,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {

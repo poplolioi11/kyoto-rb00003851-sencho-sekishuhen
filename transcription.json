@@ -1,0 +1,4272 @@
+{
+  "metadata": {
+    "title": "疝癥積聚編",
+    "catalogue_title": "疝癥積聚編",
+    "alternate_title": "Senchō sekishūhen",
+    "roman_title": "Senchō sekishūhen",
+    "author": "大橋尚因",
+    "date": "天明七年未孟春（1787）刊記，內有安永七年（1778）序跋。",
+    "location": "日本京都（現藏）",
+    "repository": "京都大學附屬圖書館",
+    "repository_en": "Main Library, Kyoto University",
+    "collection": "富士川文庫",
+    "shelfmark": "セ/167",
+    "catalogue": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851",
+    "rights": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+    "description": "日本江戶時代漢文醫書，論疝與積聚，〈治驗〉含醫者自述及個別病例。公開本標記原文有省錄。",
+    "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003851/manifest.json",
+    "manifest_sha256": "61662d1cd5c4185dbd808d69e57ed089ad0a02f87aab828c3720e687e9c5cc73",
+    "record_id": "RB00003851",
+    "edition": "0.1.0",
+    "catalogue_main_scope": null,
+    "version": "0.1.0",
+    "dataset_title": "疝癥積聚編（1787 年刊本，京都大學 セ/167） / Senchō sekishūhen [Medical discussions and case records on shan and abdominal accumulations]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p1",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00001_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "file": "01.jpg",
+      "sha256": "66c3af156c3188e3127d92e55730b32dbc84cefbf23cd63279574d96a1f99755",
+      "bytes": 259574,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "藍色外帙題籤",
+              "text": "疝癥積聚編",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：外帙正面，另見第2幅展開。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p2",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00002_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "file": "02.jpg",
+      "sha256": "c10cc90370cb2173ea37d4e16b5fd7ea49a9a8adb7e9d9073649f77d5d659385",
+      "bytes": 317994,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "外帙展開同一題籤",
+              "text": "疝癥積聚編",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "帙背題籤",
+              "text": "疝癥積聚編／一冊",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "一冊"
+              ]
+            },
+            {
+              "type": "copy-annotation",
+              "location": "帙背館籤",
+              "text": "富士川本／セ／167",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "富士川本",
+                "セ",
+                "167"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：外帙展開另見帙背題籤及館籤。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p3",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00003_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "file": "03.jpg",
+      "sha256": "59f718fd45beb4ec8c45eb5f585cf5949f2a5404f8e9f816c61a3acc5d2e6af3",
+      "bytes": 249207,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "書衣題籤",
+              "text": "疝癥積聚編　全",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "前封右上館籤",
+              "text": "富士川本／セ／167",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "富士川本",
+                "セ",
+                "167"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：正冊前封，題籤上端及左下有磨損。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p4",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00004_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "file": "04.jpg",
+      "sha256": "c7d37aa10b3da5325cd08f937e9e49d68c7700bf5e183e62266379043e122cb0",
+      "bytes": 274432,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "prefaces-and-title",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "版面",
+              "text": "無正文，紙面微有透字。",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "疝癥積聚編序"
+            },
+            {
+              "text": "夫世有病腹痛者諸藥無驗"
+            },
+            {
+              "text": "遂爲痼疾連綿常苦不知其"
+            },
+            {
+              "text": "由也予嘗用心考究之外臺"
+            },
+            {
+              "text": "有石疝盤疝等説要略有寒"
+            },
+            {
+              "text": "疝之論就閲之今之腹痛多"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／序／一",
+              "column_anchor": 6,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "序",
+                "一"
+              ]
+            },
+            {
+              "type": "seal",
+              "location": "左上印記",
+              "text": "185853／大正7.3.31",
+              "column_anchor": 6,
+              "color": "unknown",
+              "lines": [
+                "185853",
+                "大正7.3.31"
+              ]
+            },
+            {
+              "type": "seal",
+              "location": "左上印記",
+              "text": "朱色篆印一方，與第1、2欄頂端部分重疊。",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁內側",
+              "text": "富士川游寄贈",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "版式",
+              "text": "正文隨刻有訓點及假名小字。",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：底本 SHA-256 c7d37aa10b3da5325cd08f937e9e49d68c7700bf5e183e62266379043e122cb0。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p5",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00005_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "file": "05.jpg",
+      "sha256": "14aa628bd8cd7ef3a94acd317b8c50f691b550568001a2d2ece0c04057986362",
+      "bytes": 317502,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "prefaces-and-title",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "其症也余因此治之而得效"
+            },
+            {
+              "text": "甚多矣實似得其術然猶未"
+            },
+            {
+              "text": "爲得也何則痛愈後經百日"
+            },
+            {
+              "text": "或越一年有復發者然則不"
+            },
+            {
+              "text": "可謂絶根竭源之法也彼積"
+            },
+            {
+              "text": "聚之症病根難斷世醫或欲"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／序／一",
+              "column_anchor": 6,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "序",
+                "一"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "以下劑斷之非其治也今余"
+            },
+            {
+              "text": "論疝亦類之雖非可果斷者"
+            },
+            {
+              "text": "然若果不治則何一治乎能"
+            },
+            {
+              "text": "一治則不可無治是未得其"
+            },
+            {
+              "text": "眞故爾然欲一治之亦不得"
+            },
+            {
+              "text": "其法則難治假令再發復以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／序／二",
+              "column_anchor": 6,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "序",
+                "二"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：底本 SHA-256 14aa628bd8cd7ef3a94acd317b8c50f691b550568001a2d2ece0c04057986362。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p6",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00006_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "file": "06.jpg",
+      "sha256": "903de54ea7e14e352e8813a3d57320c85a630b018ffd473d2fc88795b2c0b23c",
+      "bytes": 273893,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "prefaces-and-title",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "其法則足凌痛楚矣有用古"
+            },
+            {
+              "text": "方不治者余新製方施之屢"
+            },
+            {
+              "text": "得效矣繇此終身不發者不"
+            },
+            {
+              "text": "鮮也今編集其論其方得奇"
+            },
+            {
+              "text": "效者以爲一卷至使其病果"
+            },
+            {
+              "text": "不再發之治者俟後之良工"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／序／二",
+              "column_anchor": 6,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "序",
+                "二"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "耳"
+            },
+            {
+              "text": "安永七戊戌春三月"
+            },
+            {
+              "text": "張州海西大橋尚因著"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／序／三",
+              "column_anchor": 3,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "序",
+                "三"
+              ]
+            },
+            {
+              "type": "seal",
+              "location": "左頁署下印記",
+              "text": "「大橋尚因」方印及另一方印。",
+              "column_anchor": 3,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：左頁印文較淡，反頁所見對應圖像方向相反。 左面：底本 SHA-256 903de54ea7e14e352e8813a3d57320c85a630b018ffd473d2fc88795b2c0b23c。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p7",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00007_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "file": "07.jpg",
+      "sha256": "031ca444d8fe4b0547f58461a8da1fa7526c0a5b68a0efab6fe814e7b48e2261",
+      "bytes": 297425,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "prefaces-and-title",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "版面",
+              "text": "第6幅左頁序末署款及印記的反向像較明顯，未重列為本頁正文。",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／序／三",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "序",
+                "三"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "凡例"
+            },
+            {
+              "text": "一諸書謂疝者多矣然其深痼者或似他"
+            },
+            {
+              "text": "症疝之眞者古人言不盡意故初論之其"
+            },
+            {
+              "text": "論與古言照則諸疝可見吾言可信也故"
+            },
+            {
+              "text": "録古人所謂疝之諸症又七疝之名彼是"
+            },
+            {
+              "text": "不同有同名而異狀者有名狀俱異者以"
+            },
+            {
+              "text": "此見之則疝不止七各以其所見命名者"
+            },
+            {
+              "text": "乎故録諸症以令知疝之萬殊耳"
+            },
+            {
+              "text": "一謂積謂癥謂疝不知其形則易混同而"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／四",
+              "column_anchor": 9,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "四"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：左2「深痼」依圖暫讀，首字水旁筆形待覆核。 左面：底本 SHA-256 031ca444d8fe4b0547f58461a8da1fa7526c0a5b68a0efab6fe814e7b48e2261。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p8",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00008_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "file": "08.jpg",
+      "sha256": "d151f20bc8e40c29763deb71db3bc79c7cdb53a3ae3d459d920fa7c491561d07",
+      "bytes": 348226,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-clinical-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "誤治則無效故委舉諸形爾"
+            },
+            {
+              "text": "一諸方者余用之而得效之方而多古人"
+            },
+            {
+              "text": "之方也其古人方而難治者余別製方以"
+            },
+            {
+              "text": "療之其方則稱家方以附録焉"
+            },
+            {
+              "text": "一全類他病而吾爲之疝者記其治驗以"
+            },
+            {
+              "text": "證焉"
+            },
+            {
+              "text": "一世醫有以下劑治積者吾爲之撰論以"
+            },
+            {
+              "text": "辨惑故不記方知其法則於衆書中自可"
+            },
+            {
+              "text": "采用也惟於疝之方試之奇者特録此耳"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／序／四",
+              "column_anchor": 9,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "序",
+                "四"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "疝癥積聚編"
+            },
+            {
+              "text": "張州海西大橋尚因著"
+            },
+            {
+              "text": "疝作諸症説"
+            },
+            {
+              "text": "大凡治病先當正其名不正其名者猶縁"
+            },
+            {
+              "text": "木而求魚也病欲治之者先當論其因正"
+            },
+            {
+              "text": "其名蓋有積聚癥瘕腹痛諸症歷數年不"
+            },
+            {
+              "text": "療者吾能見之疝病十居八九然人不知"
+            },
+            {
+              "text": "而治之何得愈矣蓋不正其名不論其因"
+            },
+            {
+              "text": "故也疝之諸症雖古人所言許多然心腹"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／一",
+              "column_anchor": 9,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "一"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：底本 SHA-256 d151f20bc8e40c29763deb71db3bc79c7cdb53a3ae3d459d920fa7c491561d07。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p9",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00009_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "file": "09.jpg",
+      "sha256": "4f7458396a019644c30a18e3bf48ee2791cbd32641409cfebbc8e467021c884f",
+      "bytes": 369665,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-clinical-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "痞硬如盤或如袋盛瓜或痛或不痛經數"
+            },
+            {
+              "text": "年而不療者心下痞硬而嘔吐清水或年"
+            },
+            {
+              "text": "年吐食似反胃者或小腹微疼瀉利不止"
+            },
+            {
+              "text": "其病綿連者小便淋瀝陰莖痛而出膿血"
+            },
+            {
+              "text": "者腰脚麻痺或脚弱走痛難久立者腹中"
+            },
+            {
+              "text": "不和懶言語動作身體羸瘦不欲飲食五"
+            },
+            {
+              "text": "心煩熱似虛勞者或腹中卒如鼓脹昏倒"
+            },
+            {
+              "text": "四肢逆冷欲死者或惡寒發熱舌上有白"
+            },
+            {
+              "text": "胎不入穀食四肢拘攣者午後發熱蒸蒸"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／一",
+              "column_anchor": 9,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "一"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "汗如流上逆目眩者或遊走胸背或暴嘔"
+            },
+            {
+              "text": "吐或卒惡寒戰栗咬牙頃刻而止者或痛"
+            },
+            {
+              "text": "甚而爲角弓反張者或腰足痿不動者此"
+            },
+            {
+              "text": "等諸症皆疝之所爲而古人所不言也至"
+            },
+            {
+              "text": "如此者世醫不知何病猥與藥或中脘久"
+            },
+            {
+              "text": "痛則曰脾胃虛胸脇痛則曰痰腰卒痛則"
+            },
+            {
+              "text": "曰風濕相搏偶雖知之藥非其藥以此疾"
+            },
+            {
+              "text": "愈盛連年不療遂爲不治而服餌都廢束"
+            },
+            {
+              "text": "手俟死者甚多矣夫疝者陰病而發動者"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／二",
+              "column_anchor": 9,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "二"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：底本 SHA-256 4f7458396a019644c30a18e3bf48ee2791cbd32641409cfebbc8e467021c884f。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p10",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00010_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "file": "10.jpg",
+      "sha256": "d9723f3fbf1c087db3b5c3362513e4e68413d747d9973d3a2d7532a86b029724",
+      "bytes": 370584,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-clinical-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "也其主則肝腎也其患先起于肝而入腎"
+            },
+            {
+              "text": "遂成二臟病其主二臟而先謂肝者何也"
+            },
+            {
+              "text": "肝易動難靜嬰兒無心亦動者惟肝而已"
+            },
+            {
+              "text": "矣故肝者寒濕易侵易容也而非無挾熱"
+            },
+            {
+              "text": "者雖然其熱非温柔之陽氣故寒又易容"
+            },
+            {
+              "text": "也雖元屬熱極則爲寒是其常也傷寒硝"
+            },
+            {
+              "text": "黄之症亦有久而用薑附者諸積久而爲"
+            },
+            {
+              "text": "疝則其寒不可全無也其諸積變爲疝何"
+            },
+            {
+              "text": "也肝急速而能動矣故走而接之遂爲己"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／二",
+              "column_anchor": 9,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "二"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "病腎膀胱小腸爲之所迫自病則盤腸氣"
+            },
+            {
+              "text": "等症起焉肝以他之病者譬如俠客之救"
+            },
+            {
+              "text": "他之鬪以他之敵爲己之敵也疝之爲諸"
+            },
+            {
+              "text": "症肝惟動故所畜之寒冷結氣橫行腹中"
+            },
+            {
+              "text": "衝上至心下則痞硬嘔吐下降至小腹則"
+            },
+            {
+              "text": "疼痛泄痢矣塞氣則如勞瘵塞膀胱則爲"
+            },
+            {
+              "text": "淋瀝肝主筋故攣急或筋縮屈伸不便又"
+            },
+            {
+              "text": "其肝腎二脉病則爲麻木痿弱等症外以"
+            },
+            {
+              "text": "經脉謂則起於足大指交出大陰後循股"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／三",
+              "column_anchor": 9,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "三"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右2原圖兩見「二臟」，右6末字「硝」依圖。 左面：左6「瘵」暫讀，刻字左側細筆待覆核。 左面：底本 SHA-256 d9723f3fbf1c087db3b5c3362513e4e68413d747d9973d3a2d7532a86b029724。"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p11",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00011_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "file": "11.jpg",
+      "sha256": "9ad6df883d15f53f5f7669b0fa63ce1823cf4568c7f7b107c9fc9b64a1dd21ba",
+      "bytes": 357663,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-clinical-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "入陰中抵小腹屬肝絡膽上貫膈布脇肋"
+            },
+            {
+              "text": "連目系上出額與督脉會於巓是肝之所"
+            },
+            {
+              "text": "循也腎又起於小指之下循内踝之後別"
+            },
+            {
+              "text": "入跟中出膕内廉上股内貫脊屬腎絡膀"
+            },
+            {
+              "text": "胱其直者從腎上貫肝上膈入肺中循喉"
+            },
+            {
+              "text": "嚨如此其經從足至頭則其元雖在腰腹"
+            },
+            {
+              "text": "而脚腨項背之病爭起可知也疝之所成"
+            },
+            {
+              "text": "惟寒而已也故非烏附以敗癥散寒施予"
+            },
+            {
+              "text": "以行結氣則難治矣世人偏用木香檳榔"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／三",
+              "column_anchor": 9,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "三"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "烏藥香附靑皮枳殼等不問寒熱新久一"
+            },
+            {
+              "text": "例施之彼枳烏之輩何足敗癥散寒是以"
+            },
+            {
+              "text": "累年不療者盲惑衆盲故也醫者豈可不"
+            },
+            {
+              "text": "選哉漢高得三傑而興矣蜀主得孔明而"
+            },
+            {
+              "text": "安矣凡患疝者得以烏附治者應自安矣"
+            },
+            {
+              "text": "唯有麻木攣急五心煩熱等證則他病而"
+            },
+            {
+              "text": "何謂之疝果見有疝之所爲而後可以疝"
+            },
+            {
+              "text": "治之故以胗疝之法別書之"
+            },
+            {
+              "text": "胗疝法"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／四",
+              "column_anchor": 9,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "四"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右8末字「予」依圖暫辨。 左面：左8、9所見同為月旁「胗」，保留底本形。 左面：底本 SHA-256 9ad6df883d15f53f5f7669b0fa63ce1823cf4568c7f7b107c9fc9b64a1dd21ba。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p12",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00012_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "file": "12.jpg",
+      "sha256": "80ad82c72a7eb9bbaa570ecd54b483ef8c92a08a8686de46247704a3754e59ba",
+      "bytes": 358802,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-clinical-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "諸積各有部位惟於其疝也雖無有定位"
+            },
+            {
+              "text": "然多皆遶臍動氣腸間奔鳴惟似蛙鳴者"
+            },
+            {
+              "text": "也或自岐骨至横骨如建竿或自胸下至"
+            },
+            {
+              "text": "小腹大筋一條相貫者或臍傍一塊奔突"
+            },
+            {
+              "text": "鈎痛者或其元在臍而胸脇苦滿心下痞"
+            },
+            {
+              "text": "硬者或睪丸連小腹急痛者或結聚臍腹"
+            },
+            {
+              "text": "則腰痛上衝胸脇則徹背痛或腹痛則脚"
+            },
+            {
+              "text": "攣急及轉筋此等諸状非有常者朝見此"
+            },
+            {
+              "text": "症夕見彼症者也是此諸症皆疝之候也"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／四",
+              "column_anchor": 9,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "四"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "雖無顯然其形而必有動者有鳴者皆此"
+            },
+            {
+              "text": "疝也其元如此而雖有似痿痺及反胃者"
+            },
+            {
+              "text": "爲疝無疑藥餌如法可自療也雖似他病"
+            },
+            {
+              "text": "皆疝之所爲也以此診察則是非明也矣"
+            },
+            {
+              "text": "諸疝"
+            },
+            {
+              "text": "水疝囊腫如水晶或囊痒而流黄水陰汗"
+            },
+            {
+              "text": "自出小腹按之作水聲"
+            },
+            {
+              "text": "筋疝陰莖腫脹或挺長不收或痛痒"
+            },
+            {
+              "text": "狐疝状如仰瓦臥則入小腹如狐之晝出"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／五",
+              "column_anchor": 9,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "五"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右2「遶」、右3「岐」、右5「鈎」依圖暫讀。 左面：左9「瓦」及末字連讀次幅，依圖暫錄。 左面：底本 SHA-256 80ad82c72a7eb9bbaa570ecd54b483ef8c92a08a8686de46247704a3754e59ba。"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p13",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00013_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "file": "13.jpg",
+      "sha256": "2b4eec5948734401a64d20d74a7b9dc715a034e1cad76bff4e72bf6f93313f58",
+      "bytes": 346220,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-clinical-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "穴而溺夜入穴而不溺"
+            },
+            {
+              "text": "尸疝心腹厥逆不得氣息痛達背脊"
+            },
+            {
+              "text": "石疝心下堅痛不可手近"
+            },
+            {
+              "text": "寒疝臍下堅痛得寒冷食輒劇或遶臍痛"
+            },
+            {
+              "text": "若發則自汗手足厥冷或腹中痛及脇"
+            },
+            {
+              "text": "痛裏急或身痛手足不仁"
+            },
+            {
+              "text": "盤疝脇下堅痛大如手時出見若不見"
+            },
+            {
+              "text": "脉疝小腹脹滿引膀胱急痛"
+            },
+            {
+              "text": "氣疝上連腎俞下及陰囊或難於前後溲"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／五",
+              "column_anchor": 9,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "五"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "而溺亦病見寒氣則遺溺使人腹脹"
+            },
+            {
+              "text": "牡疝在臍下上連肺"
+            },
+            {
+              "text": "血疝臍下結痛女人月事不時或如黄瓜"
+            },
+            {
+              "text": "在小腹兩傍矣予按李梴曰如黄瓜在"
+            },
+            {
+              "text": "小腹兩傍俗曰便毒瘡家之一病而與"
+            },
+            {
+              "text": "疝不同便毒不日而膿潰或又其部位"
+            },
+            {
+              "text": "不限腿膀小腹間其症雖不速膿潰然"
+            },
+            {
+              "text": "非無膿潰者雖非無其潰與便毒之潰"
+            },
+            {
+              "text": "不同治方又不同便毒之未膿潰者與"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "疝癥積聚編／六",
+              "column_anchor": 9,
+              "color": "unknown",
+              "lines": [
+                "疝癥積聚編",
+                "六"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右2題首見「尸」形，右5首字「若」輕淡。 左面：左7「膀」依圖暫錄。 左面：底本 SHA-256 2b4eec5948734401a64d20d74a7b9dc715a034e1cad76bff4e72bf6f93313f58。"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p14",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00014_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "file": "14.jpg",
+      "sha256": "c04f3f88f9c04cac0af28effeacc935e12b2bc4f23d21a6e42f6424309889f31",
+      "bytes": 340025,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-clinical-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "下劑則輒愈至血疝之症者難以下劑"
+            },
+            {
+              "text": "治與疝之以諸劑自愈者甚易辨何混"
+            },
+            {
+              "text": "而謂之乎然其書之意令人易知耳為"
+            },
+            {
+              "text": "易知則可也謂俗曰便毒者而實非便"
+            },
+            {
+              "text": "毒則豈如斯書之説乎如斯書之説則"
+            },
+            {
+              "text": "雅名血疝而俗名便毒也便毒與血疝"
+            },
+            {
+              "text": "二病元不同李子之言不分明矣"
+            },
+            {
+              "text": "盤腸氣腸中奔氣作聲成痛"
+            },
+            {
+              "text": "膀胱氣小腹陰囊手撥作聲而痛"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "小腸氣小腹臍傍一硬升上鉤痛"
+            },
+            {
+              "text": "腎氣小腹下注上奔心腹急痛"
+            },
+            {
+              "text": "腸㿗外腎偏墜腫痒或痛"
+            },
+            {
+              "text": "印㿗玉莖腫硬引臍絞痛甚則陰縮股冷"
+            },
+            {
+              "text": "囊上生瘡"
+            },
+            {
+              "text": "氣㿗素有濕熱因怒激起相火昏眩手搐"
+            },
+            {
+              "text": "如狂"
+            },
+            {
+              "text": "水㿗外腎腫大如斗如升或不痛不痒"
+            },
+            {
+              "text": "木腎睾丸腫痛或堅硬頑痺不痛"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁葉碼",
+              "text": "七",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：版心下部近外緣，可見葉號位置，字被疊葉遮局部。正文刻有訓點。 左面：第4欄起首「印」字照圖候讀。第9欄「睾」依刻形。"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p15",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00015_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "file": "15.jpg",
+      "sha256": "954e5c972e8aee964ef43ae28648820d4d92905a671749af6296b2f360297af2",
+      "bytes": 346487,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-clinical-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "偏墜陰子偏大偏小也"
+            },
+            {
+              "text": "㿗疝在婦人則為陰戸突出"
+            },
+            {
+              "text": "諸積"
+            },
+            {
+              "text": "肝積名曰肥氣在左脇下如覆杯有頭足"
+            },
+            {
+              "text": "心積名曰伏梁起臍上大如臂上至心下"
+            },
+            {
+              "text": "脾積名曰痞氣在胃脘覆大如盤"
+            },
+            {
+              "text": "肺之積名曰息賁在右脇下覆大如杯"
+            },
+            {
+              "text": "腎之積名曰奔豚發於小腹上至心下若"
+            },
+            {
+              "text": "豚状或上或下無時矣予按入門曰有"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁葉碼",
+              "text": "七",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "積聚成塊不能移動者曰癥言堅硬貞"
+            },
+            {
+              "text": "固也或上或下或右或左者曰瘕然則"
+            },
+            {
+              "text": "積之甚者謂癥其移動者謂瘕與積聚"
+            },
+            {
+              "text": "無異如鱉癥鱉瘕以其形名者也豈依"
+            },
+            {
+              "text": "吃鱉邪如米瘕豈因吃米哉凡有積聚"
+            },
+            {
+              "text": "癥瘕者其臟腑必不平故偏好一物耳"
+            },
+            {
+              "text": "世病積者有好吃菓實有好吃蔬菜以"
+            },
+            {
+              "text": "米癥等説名之則可稱菓實癥蔬菜癥"
+            },
+            {
+              "text": "是不因吃米可知也如應聲癥腹中雖"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁葉碼",
+              "text": "八",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：「諸積」短題另欄。第9欄起頭「豚」墨色淡。 左面：左頁第1欄「移」至末尾稍淡，仍可辨。"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p16",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00016_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "file": "16.jpg",
+      "sha256": "3857307e886246af4527849d18638627280917f4f654d0cad23d5028eb8b0073",
+      "bytes": 346197,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "為人語然吾未見之古人謂之則雖非"
+            },
+            {
+              "text": "決無然不知其眞故不論此又諸癥瘕"
+            },
+            {
+              "text": "與積同類故不別列名状也"
+            },
+            {
+              "text": "治驗"
+            },
+            {
+              "text": "丁未之春予右足大指痛物觸之痛甚強"
+            },
+            {
+              "text": "踏亦難忍擇方服之無驗以藥貼之以"
+            },
+            {
+              "text": "藥湯薰洗之猶無寸効矣自謂緩風濕"
+            },
+            {
+              "text": "痺等症将發乎然用治風痺方無驗則"
+            },
+            {
+              "text": "非其病可知也一日疝上充塞心下疼"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁葉碼",
+              "text": "八",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "痛劇矣即服桂枝加附子湯三貼而腹"
+            },
+            {
+              "text": "痛止趾痛亦去矣後歷數月復發治之"
+            },
+            {
+              "text": "如初而指痛忽止於是全愈始知疝之"
+            },
+            {
+              "text": "患亦及四末蓋以疝方治其病故記載"
+            },
+            {
+              "text": "以為後助矣"
+            },
+            {
+              "text": "一婦人吐食甚衆醫皆以為翻胃身體羸"
+            },
+            {
+              "text": "瘦起居轉難十有五年猶未治諸醫俱"
+            },
+            {
+              "text": "束手予診脈以為寒疝根在臍腹大如"
+            },
+            {
+              "text": "覆杯此痛令人吐者也是衆醫所過也"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁葉碼",
+              "text": "九",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：〈治驗〉另欄，首件作者自述起「丁未之春」；此處只記干支。 左面：「一婦人」的「一」頂格，與前一病例有欄界。"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p17",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00017_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "17"
+        ]
+      },
+      "file": "17.jpg",
+      "sha256": "fa1444e52f59201e4ca4a04f5b4b5554f59e3010a167a5ff52ea25948b7fc129",
+      "bytes": 339327,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "與家製半夏湯五貼便止止而又下痢"
+            },
+            {
+              "text": "蓋寒邪逐水飲上奔則吐也下行則下"
+            },
+            {
+              "text": "利今也實下行矣宜先治瀉因與家製"
+            },
+            {
+              "text": "苓术羌附湯瀉果止矣而後以古施附"
+            },
+            {
+              "text": "湯攻病源不過五七劑而全愈病婦曰"
+            },
+            {
+              "text": "百年之患為君失矣傍人又曰起號之"
+            },
+            {
+              "text": "妙也"
+            },
+            {
+              "text": "同袍牧子圭過予曰吾母病心腹痞滿疼"
+            },
+            {
+              "text": "痛不飲食日吐水數升骨立倦怠也他"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁葉碼",
+              "text": "九",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "醫為留飲治之無驗其年七十餘一以"
+            },
+            {
+              "text": "喜其壽一以懼此病吾子願治之予往"
+            },
+            {
+              "text": "診其脈告曰寒疝也病得之寒矣病母"
+            },
+            {
+              "text": "曰君之言是也吾一日嚴冬冒風忽為"
+            },
+            {
+              "text": "惡寒無幾此病發予曰一朝之邪何至"
+            },
+            {
+              "text": "此乎是元有疝外感之邪相促以使然"
+            },
+            {
+              "text": "也即為之作茯苓湯飲之藥入腹吐即"
+            },
+            {
+              "text": "定又與桂枝加附子湯平其疝而病方"
+            },
+            {
+              "text": "已子圭又來曰曩阿母疾病矣藥治無"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁葉碼",
+              "text": "十",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第4欄方中文字候「羌」。第6欄末「起號」候讀，語義可再核。 左面：左頁第2欄「懼」左部淡。末欄「曩阿」原刻，跨幅續。"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p18",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00018_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "18"
+        ]
+      },
+      "file": "18.jpg",
+      "sha256": "a29ec07f95cf45c9b317705fa237892dd0e5fd112caf122f2a4c6fa5829fb885",
+      "bytes": 351117,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "驗焉僕不勝其憂足下為吾惠藥以起"
+            },
+            {
+              "text": "其廢徼荷大德何日忘之"
+            },
+            {
+              "text": "一男子有患天行病者惡寒發熱頭痛煩"
+            },
+            {
+              "text": "躁譫語予治之而病頗愈雖然猶未了"
+            },
+            {
+              "text": "予腹或微疼飲食不進間又發熱頭痛"
+            },
+            {
+              "text": "餘邪似未盡然無有邪脈将是勞復乎"
+            },
+            {
+              "text": "用其方無驗用諸調理之劑無有寸効"
+            },
+            {
+              "text": "再診之心下有所結聚按之暗然有冷"
+            },
+            {
+              "text": "氣時鳴動矣是果寒疝也嗚呼過矣諸"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁葉碼",
+              "text": "十",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "所為非其治參芪雖尊非其症何得其"
+            },
+            {
+              "text": "効遂轉方治其疝五七貼而頗安繼與"
+            },
+            {
+              "text": "之諸症豁然其方則桂枝加附子湯也"
+            },
+            {
+              "text": "森村生晩秋患痢疾甚而口燥溺澁下痢"
+            },
+            {
+              "text": "晝夜二百餘行裏急後重腹硬滿疼痛"
+            },
+            {
+              "text": "不欲飲食予以承氣湯等平之病漸已"
+            },
+            {
+              "text": "雖然惟精神未復飲食未進起居勞倦"
+            },
+            {
+              "text": "矣自以為其脈代也疲甚矣恐關性命"
+            },
+            {
+              "text": "邪傍人又曰攻撃之弊遂成之邪卽迎"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁葉碼",
+              "text": "十一",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第2欄「徼」候讀，左部筆細。第5欄首字如「予」，文法可再回圖。 左面：第4欄「森」頂格，新例起。第1欄「芪」照形候讀。"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p19",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00019_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "19"
+        ]
+      },
+      "file": "19.jpg",
+      "sha256": "2065f5bb562634918610355f2cc46dc1641590baff6f5299418e836c402b0f9e",
+      "bytes": 344207,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "予令診脈予曰經曰脈去來時一止無"
+            },
+            {
+              "text": "常數名曰結此脈無常數與臟腑虧損"
+            },
+            {
+              "text": "之代不同是結脈也結是積也應有積"
+            },
+            {
+              "text": "便診腹則果有矣按之為蛙鳴是疝也"
+            },
+            {
+              "text": "與補腎湯病已脈又平也"
+            },
+            {
+              "text": "一男子嚴寒之日卒惡寒戰栗手足逆冷"
+            },
+            {
+              "text": "近火惡寒不止半日漸退而心腹脹滿"
+            },
+            {
+              "text": "疼痛腰脚攣急下利不食舌上白黃胎"
+            },
+            {
+              "text": "衆醫皆以為卒中寒予診脈曰寒疝也"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁葉碼",
+              "text": "十一",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "補腎湯加附子與一劑病頗緩繼與之"
+            },
+            {
+              "text": "諸症豁然此病豈卒中寒為之舊冷相"
+            },
+            {
+              "text": "積以使然也所以知其病者其脈緊而"
+            },
+            {
+              "text": "結緊寒也結積也腹鳴似蛙鳴是余所"
+            },
+            {
+              "text": "以為疝也"
+            },
+            {
+              "text": "一老翁手臂疼痛自以為痿予診脈曰疝"
+            },
+            {
+              "text": "也他日心腹痞硬或腹中應拘急翁曰"
+            },
+            {
+              "text": "然予曰臂與腹其本同矣與桂枝加附"
+            },
+            {
+              "text": "子湯病已"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁葉碼",
+              "text": "十二",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第8欄末「胎」按字形保留。 左面：第6欄「痿」依刻形候讀。"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p20",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00020_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "20"
+        ]
+      },
+      "file": "20.jpg",
+      "sha256": "cc6d584a590fae9ed2fffdbec7eac12ee2dd9daf18155b09a06edbe365d3a7cc",
+      "bytes": 347249,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "一男子患腰痛三十日不能起藥餌針灸"
+            },
+            {
+              "text": "皆無驗一日迎予請治診其脈滑而急"
+            },
+            {
+              "text": "予曰是積之脈也非有積邪病者曰無"
+            },
+            {
+              "text": "有矣予曰如疝痛則雖其形不顯然或"
+            },
+            {
+              "text": "引睾丸或臍邊有動氣或為腹中雷鳴"
+            },
+            {
+              "text": "耳病者曰然雖無引睾丸等症時雷鳴"
+            },
+            {
+              "text": "或似積在腰下予曰果疝也疝伏而不"
+            },
+            {
+              "text": "顯及著腰以令痛與補腎湯其病尋已"
+            },
+            {
+              "text": "予曩客蓬北有人過予之旅館曰吾久患"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁葉碼",
+              "text": "十二",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "下利衆醫皆以為脾胃虛治之數年而"
+            },
+            {
+              "text": "無愈願為吾治之予診脈曰脈無虛候"
+            },
+            {
+              "text": "豈為脾腎虛乎若果虛則數年之病形"
+            },
+            {
+              "text": "體何不衰乎其人小腹有塊雷鳴予曰"
+            },
+            {
+              "text": "是寒疝也吾能可治之卽製劑與之果"
+            },
+            {
+              "text": "驗其方家製苓术羌附湯是也"
+            },
+            {
+              "text": "有人患心痛三年百藥無有驗予診之曰"
+            },
+            {
+              "text": "石疝也痛甚故痛及心也痛者殆虛不"
+            },
+            {
+              "text": "可攻撃以建中湯養中焦加附子以和"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁葉碼",
+              "text": "十三",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第9欄「予曩」新例起，「蓬北」照圖。 左面：第6欄家製方用字與 f17R 第4欄同讀。"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p21",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00021_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "21"
+        ]
+      },
+      "file": "21.jpg",
+      "sha256": "a002e55ee5ca1ce7fe5e02d3575ad73abbd294918183a691e000a76ead87cdfd",
+      "bytes": 342965,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "疝繼與蒼术湯和心下不過十貼全已"
+            },
+            {
+              "text": "一婦人病衆醫為鼓脹治之無効予診其"
+            },
+            {
+              "text": "脈曰疝之濕症也先與三白湯下如豆"
+            },
+            {
+              "text": "汁者數升脹頗愈繼與桂枝加附子湯"
+            },
+            {
+              "text": "全愈所以知其病者鼓脹則無消長今"
+            },
+            {
+              "text": "病緩則消焉盛則脹焉時腹鳴響是所"
+            },
+            {
+              "text": "以為疝也"
+            },
+            {
+              "text": "松山生者患淋疾十餘年焉一日大發莖"
+            },
+            {
+              "text": "中疼痛小便膿血小腹有塊牽引脇下"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁葉碼",
+              "text": "十三",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "予診之曰盤腸氣也便血雖似血淋有"
+            },
+            {
+              "text": "塊痛者難為血淋設使為血淋亦當利"
+            },
+            {
+              "text": "腸氣即作四味茴香散與之卒痛止血"
+            },
+            {
+              "text": "淋全愈"
+            },
+            {
+              "text": "一男子腹中遶臍有塊為鳴動一日卒得"
+            },
+            {
+              "text": "腰脚痿弱不能動予診其脈曰寒疝也"
+            },
+            {
+              "text": "此病寒邪客肝腎二藏令然其經亦為"
+            },
+            {
+              "text": "寒邪所關故為此症耳非烏頭以治疝"
+            },
+            {
+              "text": "附子以行經不可治即與烏頭煎一劑"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁葉碼",
+              "text": "十四",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：「松山生」頂格，病例分界。 左面：第3欄「卒」照圖。末欄未完，跨幅連讀。"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p22",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00022_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "22"
+        ]
+      },
+      "file": "22.jpg",
+      "sha256": "1b0c2253dca6eef5434de240e5c2b3f7b85323cbc3b49c62cd37b02981c3158f",
+      "bytes": 341615,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "瞑眩甚矣病夫曰藥增苦楚不堪服予"
+            },
+            {
+              "text": "曰是将愈之候也藥不瞑眩其病不瘳"
+            },
+            {
+              "text": "是也曲喩之強服之病略愈再與梔附"
+            },
+            {
+              "text": "湯加味豁然"
+            },
+            {
+              "text": "一婦人有病按予診其脈疝癥也與大黃"
+            },
+            {
+              "text": "附子細辛湯下其寒再與桂枝加附子"
+            },
+            {
+              "text": "湯病已予未往診時以五心煩熱心氣"
+            },
+            {
+              "text": "不樂羸瘦倦怠衆醫為虛勞予獨以為"
+            },
+            {
+              "text": "疝癥何者心下顯然有塊按之有冷氣"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁葉碼",
+              "text": "十四",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "而為鳴動也勞症之邪在胃者或雖似"
+            },
+            {
+              "text": "之然勞之痞塊何有鳴動冷氣乎疝亦"
+            },
+            {
+              "text": "從七情起則心熱不樂亦疝之候也此"
+            },
+            {
+              "text": "人果勞則治勞之劑何不効乎吾以為"
+            },
+            {
+              "text": "疝不亦宜乎"
+            },
+            {
+              "text": "一老翁小腹痛腹鳴血痢日數十行自以"
+            },
+            {
+              "text": "為痢尤甚者也予診之曰疝也夫疝病"
+            },
+            {
+              "text": "屬肝肝藏血正邪相搏傷其血故下血"
+            },
+            {
+              "text": "也邪傷血而利則可與血利同治雖然"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁葉碼",
+              "text": "十五",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第3欄「喩」刻形候讀。第5欄「按」照圖。 左面：末欄接次幅。"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851",
+      "label": {
+        "ja": [
+          "23"
+        ]
+      },
+      "file": "23.jpg",
+      "sha256": "9b2c8e870411e54d01eccecc766374eb3b546695be8def930db43d1fc632968c",
+      "bytes": 333756,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "case-accounts",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "是病元自疝來不治其本不可也即與"
+            },
+            {
+              "text": "補腎湯病愈"
+            },
+            {
+              "text": "一婦人患心痛五年諸藥針灸無有效予"
+            },
+            {
+              "text": "診脈曰心下痞硬正是積也然非五積"
+            },
+            {
+              "text": "部位雖殆如盤疝然其位高則難為盤"
+            },
+            {
+              "text": "疝極知疝客心脾邪正相爭奔騰故上"
+            },
+            {
+              "text": "衝心下而痛也先與桂枝加附子湯和"
+            },
+            {
+              "text": "其疝疝和而後以手法括散餘邪心脾"
+            },
+            {
+              "text": "痛全已"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁葉碼",
+              "text": "十五",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "一男子常苦疝癥一日大發腹硬滿疼痛"
+            },
+            {
+              "text": "予診之其脈沉緊而伏傍人皆為死症"
+            },
+            {
+              "text": "予曰積聚癥瘕之病不可卒死何足恐"
+            },
+            {
+              "text": "哉即與神保丸十五丸藥下咽病卒已"
+            },
+            {
+              "text": "寒疝主方"
+            },
+            {
+              "text": "桂枝加附子湯治寒疝心腹疼痛手足"
+            },
+            {
+              "text": "逆冷身體拘急方桂枝芍藥"
+            },
+            {
+              "text": "附子〔省錄〕甘艸大棗生薑〔省錄〕"
+            },
+            {
+              "text": "補腎湯治寒疝肚腹疼痛泄瀉胸滿痞"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁葉碼",
+              "text": "十六",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第9欄「補腎湯」下小字",
+              "text": "家方",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "omissions": [
+        {
+          "side": "left",
+          "column": 8,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：第6欄開頭「極」依圖，語義可再核。第8欄「括」保留刻形。 左面：第5欄另題「寒疝主方」，前4欄收〈治驗〉末案。第8欄兩處留置具危害性的古方劑量及製備，方名、適用描述及藥名保留。"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851",
+      "label": {
+        "ja": [
+          "24"
+        ]
+      },
+      "file": "24.jpg",
+      "sha256": "9abb02929b3678ac9edb9afcf2b601be790267a940d1997f87734317a9d006be",
+      "bytes": 320302,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-formula-register",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "塞或虛火上攻舌胎不食方"
+            },
+            {
+              "text": "附子人參白术茯苓黃芪"
+            },
+            {
+              "text": "木瓜〔省錄〕羌活乾薑沉香〔省錄〕紫蘇"
+            },
+            {
+              "text": "川芎甘艸〔省錄〕"
+            },
+            {
+              "text": "苓术羌附湯治寒疝小腹疼痛泄瀉不"
+            },
+            {
+              "text": "止甚則交血利者方茯苓白术"
+            },
+            {
+              "text": "羌活附子甘艸大棗〔省錄〕"
+            },
+            {
+              "text": "甘艸乾薑湯治諸疝泄利者方"
+            },
+            {
+              "text": "甘艸乾薑〔省錄〕蜀椒附子〔省錄〕"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "右頁葉碼",
+              "text": "十六",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "右頁第5欄「苓术羌附湯」下小字",
+              "text": "家方",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "右頁第8欄「甘艸乾薑湯」下小字",
+              "text": "家方",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "茯苓湯治諸疝嘔吐不止飲食不納方"
+            },
+            {
+              "text": "茯苓〔省錄〕陳皮附子白术〔省錄〕半夏"
+            },
+            {
+              "text": "呉茱〔省錄〕"
+            },
+            {
+              "text": "生薑半夏湯治同前方"
+            },
+            {
+              "text": "生薑〔省錄〕半夏呉茱附子〔省錄〕"
+            },
+            {
+              "text": "薑椒湯治胸中疝積嘔吐飲食不納方"
+            },
+            {
+              "text": "半夏茯苓〔省錄〕桔梗陳皮〔省錄〕桂枝"
+            },
+            {
+              "text": "附子蜀椒甘艸〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "左頁葉碼",
+              "text": "十七",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "左頁第1欄「茯苓湯」下小字",
+              "text": "家方",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "左頁第4欄「生薑半夏湯」下小字",
+              "text": "家方",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "左頁第6欄「薑椒湯」下小字",
+              "text": "外臺方",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 3,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 9,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 9,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：第2欄末「芪」候讀。第3、4、7、9欄留置具危害性的古方劑量及製備，原有並排小字。 左面：第2、3、5、7、8、9欄留置具危害性的古方劑量及製備。第7欄「桔」右旁極近「古」，保留候讀。"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851",
+      "label": {
+        "ja": [
+          "25"
+        ]
+      },
+      "file": "25.jpg",
+      "sha256": "f5ae0b6cd118821966c34598f70a070c0067f9cffbe6a9132773cf3a0f5f3574",
+      "bytes": 316438,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-formula-register",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "烏椒湯治心胃時痛時止經年月不止"
+            },
+            {
+              "text": "烏頭蜀椒〔省錄〕乾薑桂枝〔省錄〕大棗〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "半夏乾薑湯治心胃痛不可忍方"
+            },
+            {
+              "text": "乾薑桂枝半夏蒼术生薑"
+            },
+            {
+              "text": "右水煎服"
+            },
+            {
+              "text": "蒼术湯治諸疝心痛時痛時止久不已"
+            },
+            {
+              "text": "蒼术藁本右水煎温服"
+            },
+            {
+              "text": "十味蒼栢散治諸疝肚腹疼痛方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁葉碼",
+              "text": "十七",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第5欄「生薑」下並行小字",
+              "text": "各等分",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第8欄「蒼术」下小字",
+              "text": "八分",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第8欄「藁本」下小字",
+              "text": "五分",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "蒼术黃栢香附〔省錄〕青皮玄胡"
+            },
+            {
+              "text": "益知桃仁〔省錄〕茴香附子甘艸〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "古梔附湯治寒疝入心腹卒痛及小腸"
+            },
+            {
+              "text": "膀胱氣疔刺脾腎氣攻攣急極痛難忍"
+            },
+            {
+              "text": "腹中冷重如石自汗不止等方"
+            },
+            {
+              "text": "梔子附子〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "烏頭治諸疝腹痛方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁葉碼",
+              "text": "十八",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第9欄「烏頭」下小字",
+              "text": "千金方",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：第2、3欄留置具危害性的古方劑量及製備。第9欄方名「栢」依刻形。 左面：第1、2、3、7、8欄留置具危害性的古方劑量及製備。第2欄「益知」、第5欄「疔」照形候讀。末欄方名續下幅。"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851",
+      "label": {
+        "ja": [
+          "26"
+        ]
+      },
+      "file": "26.jpg",
+      "sha256": "da5dea6efe9e1d8cf8dd0fa8d914fbfc8bf08ee7940d77a71b665a39b6735a61",
+      "bytes": 324277,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-formula-register",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "乾薑　桂枝　芍藥　烏頭　甘艸〔省錄〕"
+            },
+            {
+              "text": "大棗〔省錄〕"
+            },
+            {
+              "text": "蜀椒湯　治寒疝心腹如刺繞臍腹中盡"
+            },
+            {
+              "text": "痛者方　蜀椒　乾薑　附子"
+            },
+            {
+              "text": "半夏　甘艸　粳米　大棗〔省錄〕"
+            },
+            {
+              "text": "茯苓桂甘湯　治疝作奔豚方"
+            },
+            {
+              "text": "茯苓　桂枝　甘艸　生薑　水煎服"
+            },
+            {
+              "text": "四味茴香散　治疝作淋瀝囊莖抽痛方"
+            },
+            {
+              "text": "烏藥　良薑　青皮　茴香"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編　十八",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第3欄「蜀椒湯」後小字出處",
+              "text": "外臺方",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第6欄「茯苓桂甘湯」後小字出處",
+              "text": "傷寒方",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第7欄「茯苓」後小字",
+              "text": "八分",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第7欄「甘艸」後小字",
+              "text": "各四分",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第7欄「生薑」後小字",
+              "text": "少",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第9欄「茴香」後小字",
+              "text": "等分",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "右為細末温酒調服"
+            },
+            {
+              "text": "三白湯　治疝作腹脹満方"
+            },
+            {
+              "text": "白丑　桑白□　白术　木通　陳皮〔省錄〕"
+            },
+            {
+              "text": "茯苓　大棗〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "厚朴七物湯　治疝腹痛甚而為脹満者"
+            },
+            {
+              "text": "厚朴　甘艸　大黄　大棗　枳實"
+            },
+            {
+              "text": "桂枝　生薑　右水煎服"
+            },
+            {
+              "text": "大黄附子湯　治疝腹脹満痛甚欲絶者"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編　十九",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第2欄「三白湯」下小字出處",
+              "text": "家方",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第6欄「厚朴七物湯」下小字出處",
+              "text": "要略方",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第7欄「厚朴」後小字",
+              "text": "八分",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第7欄「甘艸」後小字",
+              "text": "四分",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第7欄「大黄」後小字",
+              "text": "三分",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第8欄「生薑」後小字",
+              "text": "各二分",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第9欄「大黄附子湯」下小字出處",
+              "text": "要略方",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 1,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：此面有原文未收錄處，各欄由省錄標記定位。"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851",
+      "label": {
+        "ja": [
+          "27"
+        ]
+      },
+      "file": "27.jpg",
+      "sha256": "5571af6b442e5bb8d5979dfff33cca8cbb4a151e3fbfb29ebc5b612c1234885e",
+      "bytes": 335743,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-formula-register",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "以此方不為下利者不治"
+            },
+            {
+              "text": "大黄　附子　細辛〔省錄〕"
+            },
+            {
+              "text": "心疝湯　治繞臍痛上支脇心下大痛方"
+            },
+            {
+              "text": "芍藥　蜀椒　桔梗　細辛　桂枝"
+            },
+            {
+              "text": "乾薑　附子〔省錄〕"
+            },
+            {
+              "text": "良薑湯　治諸疝心腹絞痛如刺兩脇支"
+            },
+            {
+              "text": "満煩悶不可忍方　良薑　當歸〔省錄〕"
+            },
+            {
+              "text": "桂枝　厚朴　附子〔省錄〕"
+            },
+            {
+              "text": "薑桂湯　治寒疝心胃痛不可忍方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編　十九",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第6欄「良薑湯」下小字出處",
+              "text": "家方",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第9欄「薑桂湯」下小字出處",
+              "text": "家方",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "乾薑　桂枝　蒼术　半夏　附子"
+            },
+            {
+              "text": "生薑〔省錄〕"
+            },
+            {
+              "text": "饑疝湯　治饑則心胃痛得食則痛止方"
+            },
+            {
+              "text": "龍膽　附子　黄連〔省錄〕"
+            },
+            {
+              "text": "奔疝湯　治寒疝手足厥冷上氣腹満絞"
+            },
+            {
+              "text": "痛欲絶方　生薑　半夏　桂枝〔省錄〕"
+            },
+            {
+              "text": "呉茱　人參　甘艸〔省錄〕"
+            },
+            {
+              "text": "硫荔丸　治寒疝上衝塞心臟痛甚手足"
+            },
+            {
+              "text": "厥冷欲死者方　荔枝核　陳皮"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編　二十",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：此面有原文未收錄處，各欄由省錄標記定位。"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851",
+      "label": {
+        "ja": [
+          "28"
+        ]
+      },
+      "file": "28.jpg",
+      "sha256": "04711580b6f4345d43577058e03ac1624193aa503a09e9a105fe888e11325f07",
+      "bytes": 330737,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-formula-register",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "硫黄〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "手拈散　治疝塞心下痛甚方"
+            },
+            {
+              "text": "玄胡　沒藥　甘艸　五靈脂〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "當歸茴香散　治寒疝小腹痛方"
+            },
+            {
+              "text": "當歸　茴香　附子　良薑〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "神保丸　治諸積氣痛項背注痛宣通臟"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編　二十",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第6欄「當歸茴香散」後小字出處",
+              "text": "家方",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "腑之方　全蠍　巴霜　木香〔省錄〕"
+            },
+            {
+              "text": "胡椒　硃砂〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "烏頭煎方　治暴疝閉塞諸方不應者"
+            },
+            {
+              "text": "烏頭〔省錄〕"
+            },
+            {
+              "text": "抵當烏頭桂枝湯　治暴疝腹痛逆冷手"
+            },
+            {
+              "text": "足不仁若身痛灸刺諸藥不能治方"
+            },
+            {
+              "text": "方要略見寒疝下"
+            },
+            {
+              "text": "積聚治方論"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編　二十一",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 1,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：此面有原文未收錄處，各欄由省錄標記定位。"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p29",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00029_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "29"
+        ]
+      },
+      "file": "29.jpg",
+      "sha256": "b5aef84fabaffa99daa96cdebd98926da0dc922050b5b8a7feee810365880ebc",
+      "bytes": 360594,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-formula-register",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "人有五積六聚有疝有癥有瘕同腹中有"
+            },
+            {
+              "text": "形之病而異名者甚多矣是何因而得之"
+            },
+            {
+              "text": "積聚者宿食痰瘀血以成塊者也癥瘕者"
+            },
+            {
+              "text": "臟腑虚弱飲食不消化而結聚也疝者濕"
+            },
+            {
+              "text": "熱凝滯于肝經令然也是皆古人之論而"
+            },
+            {
+              "text": "非無是理然痰瘀血宿食則利下可以治"
+            },
+            {
+              "text": "已利下而不瘳則似難為痰瘀食予按是"
+            },
+            {
+              "text": "皆一氣凝滯結聚而令然也故難經曰氣"
+            },
+            {
+              "text": "之所聚名曰聚氣之所積名曰積是之謂"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編　二十一",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "也故氣之所不平者則邪之所以相集也"
+            },
+            {
+              "text": "雖言相集然積聚之地其邪相依託而已"
+            },
+            {
+              "text": "非其物成病故氣不和則雖攻其塊不消"
+            },
+            {
+              "text": "見其不消者為痰瘀食治則至害人命故"
+            },
+            {
+              "text": "恬淡虚無而理心者無有此患焉故飲酒"
+            },
+            {
+              "text": "人有積者少矣其氣不凝滯故也是以虚"
+            },
+            {
+              "text": "女不出閨門者而患積聚則百藥不治嫁"
+            },
+            {
+              "text": "則自消和矣其氣舒故也是其相集者標"
+            },
+            {
+              "text": "而其氣為本可知也不治本而治標非真"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編　二十二",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "瘕",
+          "candidates": [],
+          "note": "右頁第1、3欄「瘕」候「痕」，右部待核；第3、6、7欄「瘀」形密；第7欄「瘳」候「病」。版心末筆淡。細訓點未逐點編碼。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "瘀",
+          "candidates": [],
+          "note": "右頁第1、3欄「瘕」候「痕」，右部待核；第3、6、7欄「瘀」形密；第7欄「瘳」候「病」。版心末筆淡。細訓點未逐點編碼。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "瘳",
+          "candidates": [],
+          "note": "右頁第1、3欄「瘕」候「痕」，右部待核；第3、6、7欄「瘀」形密；第7欄「瘳」候「病」。版心末筆淡。細訓點未逐點編碼。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "病",
+          "candidates": [],
+          "note": "右頁第1、3欄「瘕」候「痕」，右部待核；第3、6、7欄「瘀」形密；第7欄「瘳」候「病」。版心末筆淡。細訓點未逐點編碼。"
+        }
+      ],
+      "observations": "右面：右頁第1、3欄「瘕」候「痕」，右部待核；第3、6、7欄「瘀」形密；第7欄「瘳」候「病」。版心末筆淡。細訓點未逐點編碼。 左面：左頁第4欄「瘀」形密；第6欄末「虚」與第7欄首「女」跨欄，前者候「處」。返點、送假名細形未逐點編碼。"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p30",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00030_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "30"
+        ]
+      },
+      "file": "30.jpg",
+      "sha256": "6b7be9b3c30aab03bf9f604a48d2fb2b87ca5b2658b9c6262db6f418becb3b72",
+      "bytes": 358343,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-formula-register",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "治也故節思慮養性情者何積之有然頑"
+            },
+            {
+              "text": "愚婦女輩何以行之故酒以忘憂或假絲"
+            },
+            {
+              "text": "竹以蕩之如此而不愈者藥不可不以治"
+            },
+            {
+              "text": "之欲治之者以术苓半夏厚朴生薑枳殻"
+            },
+            {
+              "text": "橘皮木香檳榔等藥下氣行氣解胸腹痞"
+            },
+            {
+              "text": "塞鬱氣結聚或有熱者和解之甚者小通"
+            },
+            {
+              "text": "利之痰食託之為害則消化之劑併治之"
+            },
+            {
+              "text": "自愈也又疝之症有久而吐瀉者惟此症"
+            },
+            {
+              "text": "與諸積不同客寒内沉故邪正争而使吐"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編　二十二",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "下也其吐水者以术苓生薑吐食者以附"
+            },
+            {
+              "text": "呉半夏下利者以芪附术苓腹痛者桂甘"
+            },
+            {
+              "text": "芍附或寒客之凝者以温下之藥少下之"
+            },
+            {
+              "text": "則病雖凝疝無不治矣五積之症猥以峻"
+            },
+            {
+              "text": "下之劑則反至生他變世醫往往有用下"
+            },
+            {
+              "text": "劑者真救縊而引其足也可不戒或惟女"
+            },
+            {
+              "text": "人血塊雖可攻之然有氣和自消者則不"
+            },
+            {
+              "text": "攻亦可也諸積雖行氣之劑可以治一憂"
+            },
+            {
+              "text": "一慮復正發如初也故欲斷病本先斷思"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編　二十三",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：承積聚治方論。第4欄「枳殻」照圖，返點、小訓未逐點編碼。 左面：第2欄「芪」候「芫」，第4欄「猥」右「畏」形略密。細訓點未逐點編碼。"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p31",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00031_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "31"
+        ]
+      },
+      "file": "31.jpg",
+      "sha256": "7ded74a1e5dea4f34e4d2bc0506eee1e721cb70690b42ed6b08afc4a1d46636c",
+      "bytes": 358505,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-formula-register",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "慮可也使之能節思慮者非醫之所能其"
+            },
+            {
+              "text": "不能節者無如之何"
+            },
+            {
+              "text": "藥説"
+            },
+            {
+              "text": "病有寒熱藥有温冷非寒病多而熱病少"
+            },
+            {
+              "text": "又非熱病多而寒病少故周而不比不可"
+            },
+            {
+              "text": "不節温冷然而温冷之藥以何為主是各"
+            },
+            {
+              "text": "有其功優劣難分然非無優者參附薑桂"
+            },
+            {
+              "text": "硝黄芩連是優者也以此物為勝何也百"
+            },
+            {
+              "text": "病不能離寒熱之二焉寒熱二病不能離"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編　二十三",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "此藥此餘雖有温冷之藥以此諸藥為最"
+            },
+            {
+              "text": "也故特為尊之而已為治者宜分此二品"
+            },
+            {
+              "text": "然此症亦有難分者表熱裏寒潮熱之症"
+            },
+            {
+              "text": "反宜温藥也裏熱表寒四肢厥冷之症反"
+            },
+            {
+              "text": "宜寒藥也内傷狹外邪壯熱者有宜温藥"
+            },
+            {
+              "text": "者非徒是也似寒不寒似熱不熱者屢有"
+            },
+            {
+              "text": "之一藥違則大害生是此八物甚難用矣"
+            },
+            {
+              "text": "其餘諸藥雖間有違失非忽告變者只此"
+            },
+            {
+              "text": "八味之藥最難使焉若可與薑附者反以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編　二十四",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第3欄「藥説」低開為篇題，第1至2欄承上篇。 左面：第1欄「此餘」第二字候「外」。第5欄「狹」候「挾」，左旁待辨。"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p32",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00032_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "32"
+        ]
+      },
+      "file": "32.jpg",
+      "sha256": "83f1f1dd2ac2745dcd1c011c8903b90b5ca48939ab0e4bb5e2d43161c7847c0a",
+      "bytes": 300792,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "historical-formula-register",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "硝黄則其害不少也以一匕之藥害人之"
+            },
+            {
+              "text": "性命為醫者不可不慎然恐其猛者而徒"
+            },
+            {
+              "text": "用其劣者則無有驗然古今醫人治方有"
+            },
+            {
+              "text": "各不周者或有偏寒者或有偏熱者如斯"
+            },
+            {
+              "text": "則一寒一熱不得無過故分八物之性寒"
+            },
+            {
+              "text": "温不偏而能治之可謂良工君子醫其偏"
+            },
+            {
+              "text": "者為下工小人醫凡行醫者無為小人之"
+            },
+            {
+              "text": "醫每臨百病以八品之藥為主加之以温"
+            },
+            {
+              "text": "凉之良藥五六品出入能用之則其病無"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編　二十四",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "不瘉而自達治號之妙境耳"
+            },
+            {
+              "text": "疝癥積聚編終"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編　二十五",
+              "column_anchor": 2,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第8欄「每」與第9欄「凉」照圖。細訓點未逐點編碼。 左面：第1欄「治號」末字候待覆核。第2欄是卷正文終題，其餘為空。"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p33",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00033_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "33"
+        ]
+      },
+      "file": "33.jpg",
+      "sha256": "23252481cadb384ab9bfe1c2e73e9f2cedaf7c2d38992526783d0befad0514da",
+      "bytes": 270025,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "afterword-and-imprint",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編　二十五",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "跋"
+            },
+            {
+              "text": "海西橋氏為世良醫以其居"
+            },
+            {
+              "text": "邊徼人不之知也已少時入"
+            },
+            {
+              "text": "京受業於駒御醫既還病者"
+            },
+            {
+              "text": "樂至今年七秩其間所治藥"
+            },
+            {
+              "text": "者不知幾千萬也最用心於"
+            }
+          ],
+          "extras": [
+            {
+              "type": "seal",
+              "location": "左頁第1欄「跋」下篆印",
+              "text": "隱藩小臣",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編　跋　一",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：版框內無正文字，淡痕為他面透墨。 左面：第1欄篆印第三字讀「小」待覆。第3欄「已」候「己」，第5欄首字候「藥」，但首字上頭草形較後一「藥」淡弱，暫讀「樂」。"
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p34",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00034_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "34"
+        ]
+      },
+      "file": "34.jpg",
+      "sha256": "9997da1aaa3988e6bfdda369f610ee07747ab0fff166d1a52581e47d5b93bde5",
+      "bytes": 320364,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "afterword-and-imprint",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "疝瘕一症奏效最捷其法其"
+            },
+            {
+              "text": "方世醫所不企及也余曽聞"
+            },
+            {
+              "text": "諸門人玄節爾橋生一日來"
+            },
+            {
+              "text": "謁于余曰僕生來用工夫於"
+            },
+            {
+              "text": "疝瘕一症似粗有所得者可"
+            },
+            {
+              "text": "謂愚者一得也唯恐其法其"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編　跋　一",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "方蕪沒於後世而無有識者"
+            },
+            {
+              "text": "也因著疝癥積聚編一卷方"
+            },
+            {
+              "text": "將梓之以傳播人間願先生"
+            },
+            {
+              "text": "賜一言以嚆矢之余取讀之"
+            },
+            {
+              "text": "文字雖固陋而似有所見者"
+            },
+            {
+              "text": "也因語之曰余觀近世方書"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編　跋　二",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第1、5欄「瘕」右部筆密。第3欄「爾」待覆。版心「一」淡。 左面：第1欄「蕪」艸下筆畫密。細訓點未逐點編碼。"
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p35",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00035_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "35"
+        ]
+      },
+      "file": "35.jpg",
+      "sha256": "021e6b161d397120f6bfa5c49f8158c312594459872bc8ea13af4dbe0c0d62d3",
+      "bytes": 292617,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "afterword-and-imprint",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "猶歉歳之玉雖美於目無益"
+            },
+            {
+              "text": "於飢也如吾子斯書猶豐年"
+            },
+            {
+              "text": "之穀雖為人所賤而不可一"
+            },
+            {
+              "text": "日無之耳果使其方有益於"
+            },
+            {
+              "text": "世邪何問文字之工拙哉吾"
+            },
+            {
+              "text": "子欲梓之余何惜一言遂題"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編　跋　二",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "其後還之"
+            },
+            {
+              "text": "安永七年龍集戊戌夏五月"
+            },
+            {
+              "text": "張藩醫官滕惟寅撰"
+            }
+          ],
+          "extras": [
+            {
+              "type": "seal",
+              "location": "左頁第3欄左上篆印",
+              "text": "滕氏惟寅",
+              "column_anchor": 3,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "左頁第3欄左下篆印",
+              "text": "君□居士",
+              "column_anchor": 3,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "左頁版心",
+              "text": "疝癥積聚編　跋　三",
+              "column_anchor": 3,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "左頁第3欄左下篆印",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        }
+      ],
+      "observations": "右面：第1欄「歉歳」第二字依圖字形。細訓點未逐點編碼。 左面：跋文日期在第2欄。第3欄「滕」與相鄰上印待覆。下印右列末字未確定。"
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p36",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00036_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "36"
+        ]
+      },
+      "file": "36.jpg",
+      "sha256": "30513bd374327a047fe9f1229bdcd7b6dcb7dcfb0f2835a61824ff454ed43769",
+      "bytes": 261649,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "afterword-and-imprint",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁版心",
+              "text": "疝癥積聚編　跋　三",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "天明七年未孟春"
+            },
+            {
+              "text": "大野木市兵衛"
+            },
+            {
+              "text": "書林　河南四郎兵衛"
+            },
+            {
+              "text": "藤屋吉兵衛"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第1欄「未」小字",
+              "text": "未",
+              "column_anchor": 4,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第2欄右側地名小字",
+              "text": "大坂安堂町心齋橋筋",
+              "column_anchor": 4,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第3欄右側地名小字",
+              "text": "京堀川佛光寺下ル町",
+              "column_anchor": 4,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第4欄右側地名小字",
+              "text": "名古屋本町七丁目",
+              "column_anchor": 4,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：版框內無正文字，所見淡字和印形為透墨。 左面：左頁為刊記。第1欄「未」原字小於前後字，第3欄「書林」在欄首、下為書肆人名。"
+    },
+    {
+      "image": 37,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003851/canvas/p37",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003851%2FRB00003851_00037_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "37"
+        ]
+      },
+      "file": "37.jpg",
+      "sha256": "0c40d318bd4bf0ee3004b40b2611d64747994dc9e94152bd952a7da3d70a7138",
+      "bytes": 201686,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：藍色後封無題字。"
+    }
+  ]
+}
